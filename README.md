@@ -1,0 +1,62 @@
+# Perfil de Desarrollador Full Stack
+
+¡Hola, soy Javier Rios! 👋
+
+Soy un desarrollador Full Stack especializado en tecnologías web, con experiencia en JavaScript, Git/GitHub, MySQL y diversas bibliotecas y frameworks frontend y backend.
+
+## Experiencia Profesional
+
+### [Nombre de la Empresa 1]
+
+- Desarrollador Full Stack | [Fecha de Inicio] - [Fecha de Finalización]
+- Responsabilidades y logros destacados...
+
+### [Nombre de la Empresa 2]
+
+- Ingeniero de Software | [Fecha de Inicio] - [Fecha de Finalización]
+- Descripción de responsabilidades y proyectos relevantes...
+
+## Proyectos Destacados
+
+### [Nombre del Proyecto 1]
+
+- Descripción breve del proyecto y tecnologías utilizadas.
+
+### [Nombre del Proyecto 2]
+
+- Descripción breve del proyecto y contribuciones clave.
+
+## Habilidades
+
+- **Lenguajes:** JavaScript (ES6+), SQL
+- **Frameworks y Bibliotecas:** React.js, Node.js, Express.js
+- **Bases de Datos:** MySQL
+- **Control de Versiones:** Git, GitHub
+- **Herramientas y Entorno:** VSCode, npm, Webpack
+
+## Educación
+
+### [Nombre de la Universidad]
+
+- Licenciatura/Maestría en Ciencias de la Computación | Año de Graduación
+
+## Certificaciones
+
+- Certificación en Desarrollo Web Full Stack
+- Certificación en Gestión de Proyectos Ágiles (si aplicable)
+
+## Contribuciones en GitHub
+
+Puedes explorar algunos de mis proyectos destacados en GitHub:
+
+- [Repositorio 1](enlace al repositorio)
+- [Repositorio 2](enlace al repositorio)
+
+## Contacto
+
+¡Estoy siempre abierto a nuevas oportunidades y colaboraciones! Puedes contactarme a través de:
+
+- Correo Electrónico: [tu.email@example.com](mailto:tu.email@example.com)
+- LinkedIn: [Tu Perfil de LinkedIn](enlace a tu perfil)
+
+¡Gracias por visitar mi perfil! 😊
